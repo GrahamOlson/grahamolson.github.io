@@ -1,3 +1,12 @@
+.text-muli{
+font-family: 'Muli', sans-serif;
+}
 #grad1{
-background: linear-gradient(to right, rgb(140, 206, 160), rgb(135, 223, 171));
+background: linear-gradient(to right, rgb(140, 206, 160), rgb(98, 161, 125));
+}
+.off-white{
+    background: rgb(234, 247, 206);
+}
+.spacer{
+    height: 4px;
 }
